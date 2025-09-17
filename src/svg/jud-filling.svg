@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="set-header-symbol"
+   focusable="false"
+   aria-hidden="true"
+   viewBox="0 0 1000 1024"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="jud-filling.svg"
+   width="1000"
+   height="1024"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.79589844"
+     inkscape:cx="468.02454"
+     inkscape:cy="512"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path6"
+     style="opacity:1;baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;paint-order:stroke fill markers;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     d="M 185.07422 318.63672 L 86.789062 518.04492 L 281.08398 518.04492 L 185.07422 318.63672 z M 815.00977 505.13477 L 716.70117 704.54492 L 911.08203 704.54492 L 815.00977 505.13477 z " />
+</svg>
